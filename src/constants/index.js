@@ -145,7 +145,7 @@ const expCards = [
     carddescription : "Gain hands-on experience with the daily practices of a junior data analyst while building key analytical skills in data cleaning, analysis, and visualization. Learn to work with tools like spreadsheets, SQL, R, and Tableau to organize data, perform calculations, and create clear visual presentations through dashboards and reports.",
     imgPath: "/images/google1.png",
     logoPath: "/images/logo1.png",
-    title: "Data Analyst Programmer Fellow",
+    title: "Full Stack Developer",
     date: "January 2025 - Present",
     responsibilities: [
       "Optimized ETL workflows for large-scale data processing by resolving critical script errors and integrating data from multiple sources, including unconventional formats like SOAP API, ensuring seamless extraction, transformation, and loading while maintaining data integrity.",

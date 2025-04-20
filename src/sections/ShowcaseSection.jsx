@@ -72,7 +72,7 @@ const AppShowcase = () => {
                 rel="noopener noreferrer"
                 className="mt-4 inline-block bg-pink-600 text-white px-5 py-2 rounded-lg hover:bg-pink-200 transition-colors duration-300"
               >
-                View Project on GitHub
+                View Project
               </a>
             </div>
           </div>
@@ -92,7 +92,7 @@ const AppShowcase = () => {
                 rel="noopener noreferrer"
                 className="mt-4 inline-block bg-pink-600 text-white px-5 py-2 rounded-lg hover:bg-pink-200 transition-colors duration-300"
               >
-                View Project on GitHub
+                View Project
               </a>
             </div>
 
@@ -107,7 +107,7 @@ const AppShowcase = () => {
                 rel="noopener noreferrer"
                 className="mt-4 inline-block bg-pink-600 text-white px-5 py-2 rounded-lg hover:bg-pink-200 transition-colors duration-300"
               >
-                View Project on GitHub
+                View Project
               </a>
             </div>
 
